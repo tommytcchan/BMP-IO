@@ -6,7 +6,6 @@
 		<version>7</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>p79068</groupId>
 	<artifactId>BMP-IO</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
@@ -110,4 +109,5 @@
 			</build>
 		</profile>
 	</profiles>
+	<groupId>com.github.nayuki</groupId>
 </project>
