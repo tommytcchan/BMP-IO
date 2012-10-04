@@ -1,4 +1,4 @@
-package p79068.bmpio;
+package com.github.nayuki.bmpio;
 
 
 public final class BufferedPalettedRgb888Image implements Rgb888Image {

@@ -1,4 +1,4 @@
-package p79068.bmpio;
+package com.github.nayuki.bmpio;
 
 import java.io.IOException;
 import java.io.OutputStream;

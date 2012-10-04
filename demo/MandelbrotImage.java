@@ -1,4 +1,4 @@
-import p79068.bmpio.Rgb888Image;
+import com.github.nayuki.bmpio.Rgb888Image;
 
 
 /**

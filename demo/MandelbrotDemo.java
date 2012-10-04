@@ -2,8 +2,8 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-import p79068.bmpio.BmpImage;
-import p79068.bmpio.BmpWriter;
+import com.github.nayuki.bmpio.BmpImage;
+import com.github.nayuki.bmpio.BmpWriter;
 
 
 public final class MandelbrotDemo {

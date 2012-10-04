@@ -4,9 +4,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-import p79068.bmpio.BmpImage;
-import p79068.bmpio.BmpReader;
-import p79068.bmpio.BmpWriter;
+import com.github.nayuki.bmpio.BmpImage;
+import com.github.nayuki.bmpio.BmpReader;
+import com.github.nayuki.bmpio.BmpWriter;
 
 
 public final class ReadDemo {
