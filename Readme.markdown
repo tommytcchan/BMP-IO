@@ -35,6 +35,16 @@ Full listing of demos:
 * MandelbrotDemo: Draws a black-and-white image of the main part of the Mandelbrot set. The image is computed on the fly when each pixel is being requested for writing.
 * ReadDemo: Reads Demo.bmp (which can be in any color format) and writes Demo2.bmp with the same image contents but in RGB 8,8,8 true color.
 
+Maven dependency
+----------------
+
+BMP.IO can now be used in your Maven projects. Simply add the following to your pom's dependency list:
+
+        <dependency>
+            <groupId>com.github.nayuki</groupId>
+            <artifactId>BMP-IO</artifactId>
+            <version>1.0</version>
+        </dependency>
 
 License
 -------
