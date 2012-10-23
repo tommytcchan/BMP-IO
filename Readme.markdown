@@ -49,7 +49,7 @@ BMP.IO can now be used in your Maven projects. Simply add the following to your 
 License
 -------
 
-Copyright © 2011 Nayuki Minase
+Copyright © 2011 Nayuki Minase, Tommy Chan
 
 (MIT License)
 
